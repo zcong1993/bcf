@@ -1,13 +1,12 @@
 {
   "name": "bcf",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Simple backoff lib",
   "repository": {
     "url": "zcong1993/bcf",
     "type": "git"
   },
   "main": "index.js",
-  
   "files": [
     "index.js"
   ],
@@ -16,7 +15,8 @@
     "lint": "xo"
   },
   "author": "zcong1993 <1005997919@qq.com>",
-  "license": "MIT",  "jest": {
+  "license": "MIT",
+  "jest": {
     "testEnvironment": "node"
   },
   "dependencies": {},
