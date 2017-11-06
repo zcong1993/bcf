@@ -1,6 +1,8 @@
 
 # bcf
 
+> Simple backoff lib for js
+
 [![NPM version](https://img.shields.io/npm/v/bcf.svg?style=flat)](https://npmjs.com/package/bcf) [![NPM downloads](https://img.shields.io/npm/dm/bcf.svg?style=flat)](https://npmjs.com/package/bcf) [![CircleCI](https://circleci.com/gh/zcong1993/bcf/tree/master.svg?style=shield)](https://circleci.com/gh/zcong1993/bcf/tree/master)  [![donate](https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&style=flat)](https://github.com/zcong1993/donate)
 
 ## Install
